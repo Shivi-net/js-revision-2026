@@ -1,13 +1,6 @@
 console.log(this);
 
-// console.log(a);
-// let a = 20;
 
-// function test (){
-//     console.log(a);
-// }
-
-// test()
 
 var a = 10;
 function test(){
@@ -21,3 +14,12 @@ function demo(){
 
 var fn = demo();
 fn();
+
+console.log(x);
+let x = 20;
+
+function test2 (){
+    console.log(a);
+}
+
+test2()
