@@ -31,15 +31,12 @@ console.log(a);//var is hoisted and automatically initialized with undefined.
 var a = 90;  
 
 // let and const
-// console.log(b); // 
-// let b = 20;
+console.log(b); // 
+let b = 20;
 
-// console.log(c); //
-// const c = 40;
+console.log(c); //
+const c = 40;
 
-const c = 20;
-console.log(c);
+const d = 20;
+console.log(d);
 
-const b ;
-b = 40;
-console.log(b);
