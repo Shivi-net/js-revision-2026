@@ -36,6 +36,10 @@ day-2-execution-context.js
 
 day-3-closures.js
 
+day-4-this-keyword.js
+
+day-5-this-in-eventListener.js
+
 # 🎯 Purpose
 
 This repo reflects consistent practice of core JavaScript concepts before moving to advanced React projects and GenAI-integrated applications.
